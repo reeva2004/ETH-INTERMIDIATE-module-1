@@ -15,7 +15,7 @@ The contract also includes a checkInvariant function, which asserts that the con
 
 ### Installing
 
-To download the code, you can visit the following file path:- https://github.com/chakshit2004h/ETH_intermidate_course/blob/main/Error_Handling.sol
+To download the code, you can visit the following file path:- https://github.com/reeva2004/ETH-INTERMIDIATE-module-1/tree/main
 
 ### Executing program
 
